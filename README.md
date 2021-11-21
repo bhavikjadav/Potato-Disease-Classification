@@ -21,6 +21,7 @@ Machine Learning powered app that predicts whether the potato is suffering from 
 
 #### **Model Buillt with : Tensorflow** 
 #### **Architecture : CNN**
+#### **Accuracy : 99%**
 
 ## Usefull Libraries:
 - tensorfow
