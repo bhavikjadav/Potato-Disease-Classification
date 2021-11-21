@@ -1,7 +1,7 @@
 # Potato-Disease-Classification
 Machine Learning powered app that predicts whether the potato is suffering from any diseases or not. If Yes Which diseases it is suffering from.
 
-### Watch & Try Live App : https://potato-disease-recognition.herokuapp.com/
+### Try Live App Now : https://potato-disease-recognition.herokuapp.com/
 
 #### See Notes on Notion : https://www.notion.so/Potato-Disease-Classification-a1c13415d8574d1ca40710d05dfecbd2
 #### Dataset Credit : https://www.kaggle.com/arjuntejaswi/plant-village
