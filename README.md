@@ -19,8 +19,8 @@ Machine Learning powered app that predicts whether the potato is suffering from 
 
 - Step 3 : Then our deep learning model will predict whether the potato is suffering from Disease or Not.
 
-**Model Buillt with : Tensorflow** \n
-**Architecture : CNN**
+#### **Model Buillt with : Tensorflow** 
+#### **Architecture : CNN**
 
 ## Usefull Libraries:
 - tensorfow
