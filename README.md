@@ -10,7 +10,7 @@ Machine Learning powered app that predicts whether the potato is suffering from 
 ### **What is the Problem Statement?**
 ### --> In potato farming, farmers suffer a lot if the potatoes are spoiled. What happens if you look at its leaves and find out about future diseases? We can prevent this from happening with the help of Deep Learning Techniques. 
 
-### **Solution: **
+### **Solution:**
 ### Step 1 : We will click the image of the potato leave on a mobile phone or any other device.
 
 ### Step 2 : We will then cllick the photo or upload the leave image from device.
