@@ -7,7 +7,7 @@ Machine Learning powered app that predicts whether the potato is suffering from 
 
 #### Dataset Credit : https://www.kaggle.com/arjuntejaswi/plant-village
 
-<img src="https://scontent.fstv8-1.fna.fbcdn.net/v/t1.6435-9/183381021_3825268757571563_4493563321505875481_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=czJ8uItUIPIAX9J_8JV&_nc_ht=scontent.fstv8-1.fna&oh=993f8cdb738e09f1ddc0abb33978d27c&oe=61B8036F" />
+<img src="https://drive.google.com/file/d/1BzIs66dpBpsM-aebZi1_0kdeJ86NxfMb/view?usp=sharing" />
 
 ### **What is the Problem Statement?**
 ### In potato farming, farmers suffer a lot if the potatoes are spoiled. What happens if you look at its leaves and find out about future diseases? We can prevent this from happening with the help of Deep Learning Techniques. 
