@@ -3,7 +3,7 @@ from keras.backend_config import image_data_format
 import streamlit as st
 import pandas as pd
 import numpy as np
-import tensorflow as tf
+# import tensorflow as tf
 from tensorflow import keras
 # import cv2
 from PIL import Image, ImageOps
